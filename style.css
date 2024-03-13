@@ -1,0 +1,18 @@
+body{
+  background-color:steelblue
+}
+
+table{
+  background-color: skyblue;
+  border-color: black;
+}
+
+h1,h2,h3,h4,h5{
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+}
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+}
